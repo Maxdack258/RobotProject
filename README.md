@@ -29,7 +29,11 @@ Execution: The PC sends raw motor speeds to the Raspberry Pi over the local netw
 # Current Achievements/Next steps
 
 ✅ Audio integration: Hearing, speaking and communicating with API AI
+
 ✅ Video and human/object recognition with YOLO
+
 🔜 Model to actually view environment and talk about it (probably we could use gemini api).
+
 ❌ Raspberry pi and actual robot and motors.
+
 ❌ Audio + Video at the same time, so it can obey commands with either audio or video, like hand movements.
