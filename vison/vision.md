@@ -1,0 +1,1 @@
+Here I have loaded a YOLO model to test vision capabilities, or at least, recognition of things like people or objects. I´ve been testing and I think its great for the project and definitely will work, however, I am afraid that when I code it to follow me, with an audience, it could loose myself and target someone else.
