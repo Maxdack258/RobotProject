@@ -21,3 +21,11 @@ I would also start actually making code to "test" how gpt-oss-120b would "follow
 [output: Movement, action: 3secF,TL(90 degree),2secF] 
 
 or something similar. I could create a virtual environment with a 5x5 with boxes and create a "virtual robot" simulating the actual robot, where it requires the format described to function, then just input instructions by text and analyze how efficient it is.
+
+# Day 3
+
+## Summary of the day (Folders not updated with new files)
+
+I have upgraded the voice qwen3 tts voice generation methods to add further multitreshhold generation of 3 sentences at a time, which significantly gets a better conversational feel with less latency.
+
+Also updated logic to get response from gemini model from image, which is now a lot faster to respond, and a bit faster to actually respond with voice, however, I think that for the real robot we could use chatgpt live or some live model that actually can speak instantly instead of qwen 3 tts on local, for now, qwen 3 is alright.
